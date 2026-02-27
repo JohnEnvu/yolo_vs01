@@ -1,0 +1,9 @@
+external/
+runs/
+__pycache__/
+.idea/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store

@@ -1,0 +1,9 @@
+name: yolo_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - PyQt5
+    # 其他依赖会通过源码安装自动解决
